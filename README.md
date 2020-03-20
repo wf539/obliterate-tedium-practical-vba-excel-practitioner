@@ -1,4 +1,4 @@
-#SQL Server Reporting Services Playbook
+#Play by Play: Obliterate the Tedium - Practical VBA for the Excel Practitioner
 Copyright (c) Pluralsight, Don Robins, Ryan Hinkle
 
 Pluralsight
